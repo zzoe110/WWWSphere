@@ -8,6 +8,6 @@ GITHUB_CLIENT_ID = "Ov23liJrAUTTkwHzG1nV"
 GITHUB_OWNER = "zzoe110"
 GITHUB_REPO = "WWWSphere"
 GITHUB_BRANCH = "main"
-NEXTAUTH_URL = "https://2450f9c6.wwwsphere.pages.dev/api/auth"
-NEXT_PUBLIC_API_URL="https://2450f9c6.wwwsphere.pages.dev/"
+NEXTAUTH_URL = "https://4925e0ff.wwwsphere.pages.dev/api/auth"
+NEXT_PUBLIC_API_URL="https://4925e0ff.wwwsphere.pages.dev/"
 
